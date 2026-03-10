@@ -3,5 +3,5 @@ export default function Sobre() {
     <div>
       <h1>Sobre</h1>
     </div>
-  )
+  );
 }
